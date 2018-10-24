@@ -7,7 +7,7 @@ Coding style I use for PHP and C#. My current coding style is dictated by what I
 ### Casing
 Camel casing starting with lower case for funtion/var names and all upper for class names.
 ```php 
-$myVariableName = 'awsome';
+$myVariableName = 'Awesome';
 
 class MyClassName {}
 
@@ -17,7 +17,7 @@ function myFunctionName(){}
 
 ### Class/Interface/Abstract definitions
 ```php 
-class MyAwsomeClass {
+class MyAwesomeClass implements MyAwesomeInterface {
 
   $dependencyInjection; 
   
